@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nnyfandresena
 - 👀 I’m interested in networking, cybersecurity
 - 💼 I'm actually a network and system administrator
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning data science (for fun)
 - 💞️ I’m looking to collaborate on anything (maybe not)
 - 😄 Pronouns: he/him
 
